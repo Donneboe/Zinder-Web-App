@@ -1,0 +1,292 @@
+{
+  "Zodiac":
+  [
+      {
+          "zodiac_name": "Aries",
+          "info": [
+          {
+            "b_date": "March 21 - April 19",
+            "attributes": "Aries are fire signs and those born under this element are regarded in astrology as adventurous, active and outgoing. It won't matter where you go or how remote or unusual it is - from the Outback to the Antarctic - you can be sure that an Aries has been there before you (or at the very least you will meet one along the way!) Aries is a uniquely naive sign. Although they are independent, outgoing and assertive they are also surprisingly trusting, often innocently walking into the lion's den at times. No matter what upheaval, challenge or triumph they confront - an Aries has a wonderful ability to bounce back. Their faith in life and the future remains untouched by hardship. Their gift is that they are always children at heart and the world is always a magical place for them. Many famous sports people are born under this sign. Aries is regarded as the most physical sign and because of its Mar's rulership; it is also one of the most highly charged masculine energy signs in astrology. No wonder women born under Aries are forceful, dynamic and aggressive, and as a result these Aries women frequently find themselves with dilemmas surrounding their romantic relationships. For them, a man has to be a 'real man' to deal with an Aries woman, otherwise she intimidates him. And conversely for the Aries male, a woman has to be a real woman to deal with him, because he is looking for many balancing component traits (his true feminine side) in his partner. She has to run the gamut in his support system, from the Aries man's best friend, true companion, through to his muse, and yet she must never ever answer him back!"
+          
+          } 
+        ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "5%", "description": "The stars say that you are the worse match. ever. Though, it can still work out! Just don't bring up your zodiac sign." },
+              {"zodiac_partner": "Aquarius", "score": "78%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Pisces", "score": "20%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Aries", "score": "50%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Taurus", "score": "38%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Gemini", "score": "83%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Cancer", "score": "42%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Leo", "score": "97%", "description": "You're soulmates!"},
+              {"zodiac_partner": "Virgo", "score": "63%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Libra", "score": "85%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Scorpio", "score": "50%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Sagittarius", "score": "93%", "description": "You're soulmates!"}
+          ]
+      
+        
+      },
+      {
+          "zodiac_name": "Cancer",
+          "info": [
+          {
+              "b_date": "June 21 - July 22",
+              "attributes": "Those born under the sign of Cancer, ruled by the mysterious Moon, are one of the zodiac's enigmas. It is fair to say that most Cancers are a bundle of contradictions. Compassionate and caring with friends, family and lovers, yet they can cut to the bone with their jealous remarks and ever-changing moods. Endearingly eccentric on one hand, and on the other, insecure about how others see them. Like their astrological symbol - the Crab - Cancers can appear hard and insensitive on the outside. However, for those of us who know and love a Moon Child, we understand that deep below lies a softness and sensitivity that makes them so very special."
+          } ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "83%", "description": "A good match for each other! You balance each other out." },
+              {"zodiac_partner": "Aquarius", "score": "27%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Pisces", "score": "98%", "description": "You're soulmates!"},
+              {"zodiac_partner": "Aries", "score": "42%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Taurus", "score": "97%", "description": "You're soulmates"},
+              {"zodiac_partner": "Gemini", "score": "65%", "description": "There's a good chance"},
+              {"zodiac_partner": "Cancer", "score": "75%", "description": "There's a good chance"},
+              {"zodiac_partner": "Leo", "score": "35%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Virgo", "score": "90%", "description": "There's a good chance"},
+              {"zodiac_partner": "Libra", "score": "43%", "description": "A successful relationship is still possible. Go for it!"},
+              {"zodiac_partner": "Scorpio", "score": "94%", "description": "You're soulmates!"},
+              {"zodiac_partner": "Sagittarius", "score": "53%", "description": "A successful relationship is still possible. Go for it!"}
+          ]
+      
+
+      },
+      {
+          "zodiac_name": "Taurus",
+          "info": [
+            {
+              "b_date": "April 20 - May 20",
+              "attributes": "Underneath their cool, calm and collected exterior, Taureans differ greatly from all the other signs of the zodiac. Taureans manage to discreetly stay apart from the crowd, even though they have a well earned reputation for being socialisers. They will let others get close, but only so close as they want them. Some claim that trying to get your point across to a Taurean, should they not want to hear you, is rather similar to talking to the trees, they simply won't budge. And, there is no such thing as an open-book Taurean. Their feelings, fears and desires often run far deeper than anyone around them would guess. Like the butterfly that chooses to remain hidden in its cocoon until it is ready and prepared to emerge, so the true Taurean spirit remains hidden behind a veneer of day-to-day activities. That's why Taureans are sometimes regarded as snobby, withdrawn, boring, or even sulky."
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "98%", "description": "You're soulmates!" },
+              {"zodiac_partner": "Aquarius", "score": "58%", "description": "A successful relationship is still possible. Go for it!"},
+              {"zodiac_partner": "Pisces", "score": "85%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Aries", "score": "38%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Taurus", "score": "65%", "description": "A successful relationship is still possible. Go for it!"},
+              {"zodiac_partner": "Gemini", "score": "33%", "description": "A successful relationship is still possible. Go for it!"},
+              {"zodiac_partner": "Cancer", "score": "97%", "description": "There's a good chance"},
+              {"zodiac_partner": "Leo", "score": "73%", "description": "A successful relationship is still possible. Go for it!"},
+              {"zodiac_partner": "Virgo", "score": "90%", "description": "There's a good chance"},
+              {"zodiac_partner": "Libra", "score": "65%", "description": "A successful relationship is still possible. Go for it!"},
+              {"zodiac_partner": "Scorpio", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Sagittarius", "score": "30%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."}
+          ]
+        },
+        {
+          "zodiac_name": "Gemini",
+          "info": [
+            {
+              "b_date": "May 21 - June 20",
+              "attributes": "Playful and intellectually curious, Gemini is constantly juggling a variety of passions, hobbies, careers, and friend groups. They are the social butterflies of the zodiac: These quick-witted twins can talk to anyone about anything. Find them buzzing between happy hours, dinner parties, and dance floors."
+              
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "68%", "description": "The stars say that you are the worse match. ever. Though, it can still work out! Just don't bring up your zodiac sign." },
+              {"zodiac_partner": "Aquarius", "score": "85%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Pisces", "score": "53%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Aries", "score": "83%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Taurus", "score": "33%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Gemini", "score": "60%", "description": "There's a good chance"},
+              {"zodiac_partner": "Cancer", "score": "65%", "description": "There's a good chance"},
+              {"zodiac_partner": "Leo", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Virgo", "score": "68%", "description": "There's a good chance"},
+              {"zodiac_partner": "Libra", "score": "93%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Scorpio", "score": "28%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Sagittarius", "score": "60%", "description": "There's a good chance"}
+          ]
+        },
+        {
+          "zodiac_name": "Leo",
+          "info": [
+            {
+              "b_date": "July 23 - August 22",
+              "attributes": "Bold, intelligent, warm, and courageous, fire sign Leo is a natural leader of the Zodiac, ready to blaze a trail, vanquish injustice, and make a name for themselves along the way. Blessed with high self-esteem, Lions know that they possess enviable traits—and they're proud of them. They don't believe in false modesty and will be the first to praise themselves for a job well done. But Leo isn't self-aggrandizing or unwilling to roll up those sleeves and do the work: this sign knows that in order to be respected and admired, he or she needs to put in the effort worthy of a leader."
+
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "35%", "description": "The stars say that you are the worse match. ever. Though, it can still work out! Just don't bring up your zodiac sign." },
+              {"zodiac_partner": "Aquarius", "score": "68%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Pisces", "score": "38%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Aries", "score": "97%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Taurus", "score": "73%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Gemini", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Cancer", "score": "35%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Leo", "score": "45%", "description": "There's a good chance"},
+              {"zodiac_partner": "Virgo", "score": "35%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Libra", "score": "97%", "description": "There's a good chance"},
+              {"zodiac_partner": "Scorpio", "score": "58%", "description": "There's a good chance"},
+              {"zodiac_partner": "Sagittarius", "score": "93%", "description": "A good match for each other! You balance each other out."}
+          ]
+        },
+        {
+          "zodiac_name": "Capricorn",
+          "info": [
+            {
+              "b_date": "December 21 - January 21",
+              "attributes": "Capricorns are the ultimate worker bees. They're ambitious, organized, practical, goal-oriented, and they don't mind the hustle. “They're ready to give up a lot in order to achieve that goal,” Verk says. They also love making their own rules, which means they strive to reach high career positions."
+
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "75%", "description": "A successful relationship is possible. Go for it!" },
+              {"zodiac_partner": "Aquarius", "score": "68%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Pisces", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Aries", "score": "5%", "description": "The stars say that you are the worse match. ever. Though, it can still work out! Just don't bring up your zodiac sign."},
+              {"zodiac_partner": "Taurus", "score": "98%", "description": "You're soulmates!"},
+              {"zodiac_partner": "Gemini", "score": "68%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Cancer", "score": "83%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Leo", "score": "35%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Virgo", "score": "95%", "description": "There's a good chance"},
+              {"zodiac_partner": "Libra", "score": "55%", "description": "A hit or miss"},
+              {"zodiac_partner": "Scorpio", "score": "95%", "description": "There's a good chance"},
+              {"zodiac_partner": "Sagittarius", "score": "60%", "description": "There's a good chance"}
+          ]
+        },
+        {
+          "zodiac_name": "Aquarius",
+          "info": [
+            {
+              "b_date": "January 21 - February 20",
+              "attributes": "Independent and enigmatical, Aquarians are unique. There is no one quite like an Aquarius, and because each is so incredibly individual, it can be tough to describe them as a group. Aquarians don't like labels, and may shy away from any adjective—even the good ones you might bestow upon them. Aquarians believe in the nature of change and evolution, and even though they're a fixed sign, they may not necessarily believe they are the 'same' people they were when they were born."
+
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "68%", "description": "The stars say that you are the worse match. ever. Though, it can still work out! Just don't bring up your zodiac sign." },
+              {"zodiac_partner": "Aquarius", "score": "45%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Pisces", "score": "45%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Aries", "score": "78%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Taurus", "score": "58%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Gemini", "score": "85%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Cancer", "score": "27%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Leo", "score": "68%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Virgo", "score": "30%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Libra", "score": "90%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Scorpio", "score": "73%", "description": "There's a good chance"},
+              {"zodiac_partner": "Sagittarius", "score": "90%", "description": "A good match for each other! You balance each other out."}
+          ]
+        },
+        {
+          "zodiac_name": "Pisces",
+          "info": [
+            {
+              "b_date": "February 21 - March 20",
+              "attributes": "Smart, creative, and deeply intuitive, Pisces can be close to psychic. Pisces feel things deeply, and have incredibly strong gut reactions. A Pisces 'knows' things from deep within, and can often judge whether a person or situation is good or bad. That doesn't mean a Pisces ignores the logical part of their brain, though. Deeply intelligent, Pisces have a profound respect for the power of the human mind. Is it a surprise that Albert Einstein was a Pisces?"
+
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "88%", "description": "A good match for each other! You balance each other out." },
+              {"zodiac_partner": "Aquarius", "score": "45%", "description": "A hit or miss"},
+              {"zodiac_partner": "Pisces", "score": "60%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Aries", "score": "67%", "description": "There's a good chance"},
+              {"zodiac_partner": "Taurus", "score": "85%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Gemini", "score": "53%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Cancer", "score": "98%", "description": "There's a good chance"},
+              {"zodiac_partner": "Leo", "score": "38%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Virgo", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Libra", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Scorpio", "score": "97%", "description": "You're soulmates!"},
+              {"zodiac_partner": "Sagittarius", "score": "63%", "description": "There's a good chance"}
+          ]
+        },
+        {
+          "zodiac_name": "Virgo",
+          "info": [
+            {
+              "b_date": "August 23 - September 22",
+              "attributes": "Smart, sophisticated, and kind, Virgo gets the job done without complaining. Virgos are amazing friends, always there to lend a hand and also lend advice. Practical Virgos are incredibly adept at big picture thinking, and planning out their life, their vacations, and what they're going to do today isn't a drag it makes them feel in control and secure."
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "95%", "description": "You're soulmates" },
+              {"zodiac_partner": "Aquarius", "score": "30%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Pisces", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Aries", "score": "63%", "description": "There's a good chance"},
+              {"zodiac_partner": "Taurus", "score": "90%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Gemini", "score": "68%", "description": "There's a good chance"},
+              {"zodiac_partner": "Cancer", "score": "90%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Leo", "score": "35%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Virgo", "score": "65%", "description": "There's a good chance"},
+              {"zodiac_partner": "Libra", "score": "68%", "description": "There's a good chance"},
+              {"zodiac_partner": "Scorpio", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Sagittarius", "score": "48%", "description": "A hit or miss"}
+          ]
+        },
+        {
+          "zodiac_name": "Libra",
+          "info": [
+            {
+              "b_date": "September 23 - October 22",
+              "attributes": "Intelligent, kind, and always willing to put others before themselves, Libras value harmony in all forms. Ruled by Venus, the planet of beauty, Libra adores a life that looks good. As the master of compromise and diplomacy, Libra is adept at seeing all points of view, and excels at crafting compromises and effecting mediation between others. This sign has a rich inner life yet loves other people, and they're always happiest with a large group of friends, family, and coworkers on whom they can count."
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "55%", "description": "It's a hit or miss" },
+              {"zodiac_partner": "Aquarius", "score": "90%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Pisces", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Aries", "score": "85%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Taurus", "score": "65%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Gemini", "score": "93%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Cancer", "score": "43%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Leo", "score": "97%", "description": "You're soulmates!"},
+              {"zodiac_partner": "Virgo", "score": "68%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Libra", "score": "75%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_partner": "Scorpio", "score": "35%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Sagittarius", "score": "73%", "description": "A successful relationship is possible. Go for it!"}
+          ]
+        },
+        {
+          "zodiac_name": "Scorpio",
+          "info": [
+            {
+              "b_date": "October 23 - November 21",
+              "attributes": "Passionate, independent, and unafraid to blaze their own trail no matter what others think, Scorpios make a statement wherever they go. They love debates, aren't afraid of controversy, and won't back down from a debate. They also hate people who aren't genuine, and are all about being authentic—even if authentic isn't pretty."
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "95%", "description": "The stars say that you are the worse match. ever. Though, it can still work out! Just don't bring up your zodiac sign." },
+              {"zodiac_partner": "Aquarius", "score": "73%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_parter": "Pisces", "score": "97%", "description": "You're soulmates!"},
+              {"zodiac_partner": "Aries", "score": "50%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Taurus", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Gemini", "score": "28%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Cancer", "score": "94%", "description": "You're soulmates!"},
+              {"zodiac_partner": "Leo", "score": "55%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Virgo", "score": "88%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Libra", "score": "35%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Scorpio", "score": "80%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Sagittarius", "score": "28%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."}
+          ]
+        },
+        {
+          "zodiac_name": "Sagittarius",
+          "info": [
+            {
+              "b_date": "November 22 - December 21",
+              "attributes": "Independent and strong-willed, Sagittarius personalities are all about going off the beaten path. Sagittarius isn’t afraid to step away from the pack, and is a natural born leader who goes after what he or she wants, regardless of what other people think. Sagittarius is a born adventurer, and loves solo travel and exploration. Sagittarius also loves exploring the inner workings of their minds, and love stretching their horizons through a good book or movie."
+            }
+          ],
+          "compatibilies": [
+              {"zodiac_partner": "Capricorn", "score": "60%", "description": "There's a good chance" },
+              {"zodiac_partner": "Aquarius", "score": "90%", "description": "A successful relationship is possible. Go for it!"},
+              {"zodiac_parter": "Pisces", "score": "63%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Aries", "score": "93%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Taurus", "score": "30%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Gemini", "score": "60%", "description": "There's a good chance"},
+              {"zodiac_partner": "Cancer", "score": "53%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Leo", "score": "93%", "description": "A good match for each other! You balance each other out."},
+              {"zodiac_partner": "Virgo", "score": "48%", "description": "It's a hit or miss"},
+              {"zodiac_partner": "Libra", "score": "73%", "description": "There's a good chance"},
+              {"zodiac_partner": "Scorpio", "score": "28%", "description": "There's a slight chance that a relationship can work out if you put in a lot of effort."},
+              {"zodiac_partner": "Sagittarius", "score": "45%", "description": "It's a hit or miss"}
+          ]
+        }
+    
+      
+  ]   
+}
