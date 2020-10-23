@@ -1,1 +1,1 @@
-This is the zinder web application.
+This is the Zinder Web application.
